@@ -1,0 +1,1 @@
+name := "puzzle-core"
